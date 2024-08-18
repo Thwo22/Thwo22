@@ -21,7 +21,7 @@
 <h3>DESEJA ENTRAR EM CONTATO?</h3>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://](https://www.linkedin.com/in/thiago-santos-b23b8a1a4/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://](https://www.linkedin.com/in/thiago-santos-b23b8a1a4/)
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thwo22/)
 
