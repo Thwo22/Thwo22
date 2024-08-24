@@ -4,7 +4,7 @@
 <li>Sou um estudante de programação e aqui é onde eu compartilho e registro todos meus aprendizados e novas técnologias!</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosantos&show_icons=true&bg_color=00000000)
 
 
 <h3>Ferramentas que uso:</h3>
