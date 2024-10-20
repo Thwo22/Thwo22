@@ -4,8 +4,8 @@
 <li>Sou um estudante de programação e aqui é onde eu compartilho e registro todos meus aprendizados e novas técnologias!</li>
 </ul>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagosantos&show_icons=true&bg_color=00000000)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thwo22&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thwo22&layout=compact)
 
 <h3>Ferramentas que uso:</h3>
 
@@ -23,7 +23,7 @@
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thwo22/)
 
-[![instagram](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YVhZRZk7)
+[![Discrod](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YVhZRZk7)
 
 
 
