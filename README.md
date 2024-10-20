@@ -5,7 +5,7 @@
 </ul>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thwo22&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thwo22&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thwo22&layout=compact&bg_color=00000000)
 
 <h3>Ferramentas que uso:</h3>
 
