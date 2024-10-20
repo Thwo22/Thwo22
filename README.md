@@ -1,7 +1,7 @@
 <h3>Olá! me chamo Thiago Santos!</h3>
 <P>18 anos</P>
 
-<P>Sou um estudante de Tecnologia da Informação autonomo, neste perfil, registro e compartilho minhas aprendizagens e novas técnologias, sempre em busca de aprender, melhorar e evoluir.</P>
+<P>Sou um estudante de Tecnologia da Informação autonômo, neste perfil, registro e compartilho minhas aprendizagens e novas técnologias, sempre em busca de aprender, melhorar e evoluir.</P>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thwo22&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thwo22&layout=compact&bg_color=00000000)
