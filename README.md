@@ -14,7 +14,7 @@
 
 <h3>Ferramentas que uso:</h3>
 
-<div style="display: inline-block"><br/>
+<div style="display: inline-block">
 
 <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
