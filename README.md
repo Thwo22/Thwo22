@@ -8,7 +8,7 @@
 
 <ul><h3>INTERESSES</h3>
 <li>FRONT-END
-<li>BANCO DE DADOS
+<li>WEB DEVELOPER
 <li>DESIGN
 </ul>
 
