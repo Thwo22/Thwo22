@@ -1,4 +1,4 @@
-<h3>Olá! me chamo Thiago Santos!</h3>
+<h3>Olá! Me chamo Thiago Santos!</h3>
 <P>18 anos</P>
 
 <P>Sou um estudante de Tecnologia da Informação autonômo, neste perfil, registro e compartilho minhas aprendizagens e novas tecnologias, sempre em busca de aprender, melhorar e evoluir.</P>
