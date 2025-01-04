@@ -1,24 +1,17 @@
 <h3>Olá! Me chamo Thiago Santos!</h3>
 <P>18 anos</P>
 
-<P>Sou um estudante de Tecnologia da Informação autonômo, neste perfil, registro e compartilho minhas aprendizagens e novas tecnologias, sempre em busca de aprender, melhorar e evoluir.</P>
+<P>Sou um estudante de Tecnologia da Informação autonômo, neste perfil, registro e compartilho minhas aprendizagens e novas tecnologias, sempre em busca de aprender, praticar e evoluir.</P>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thwo22&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thwo22&layout=compact&bg_color=00000000)
-
-<ul><h3>INTERESSES</h3>
-<li>FRONT-END
-<li>WEB DEVELOPER
-<li>DESIGN
-</ul>
 
 <h3>Ferramentas que uso:</h3>
 
 <div style="display: inline-block">
 
-<img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode)](https://skillicons.dev)
+
 
   
 </div>
