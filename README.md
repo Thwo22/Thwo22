@@ -10,7 +10,7 @@
 
 <div style="display: inline-block">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,figma,github,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,vscode,figma,github,wordpress)](https://skillicons.dev)
 
 
   
